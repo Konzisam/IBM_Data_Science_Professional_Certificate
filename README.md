@@ -1,6 +1,6 @@
 Exploratory Data analysis in Python:
 
-#Tasks
+Tasks
 1. Check and correct data types
 2. Check correlation between numerical variables
 3. Plot regresson plots to visualize numerical variables
