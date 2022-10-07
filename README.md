@@ -1,7 +1,5 @@
 IBM Data Science Professional Certificate:
 A hands on certification program exploring the entire data science cycle.
-
-Tasks
 1. Business Understanding
 2. Analytical Approach
 3. Data Requirements
@@ -12,3 +10,6 @@ Tasks
 8. Deployment 
 
 N.B This is an iterative process and can iterate at whatever stage.
+
+The files have been intuitively divided into the different topics: 
+Data wrangling, SQL, Machine Learning,Data viz, 
