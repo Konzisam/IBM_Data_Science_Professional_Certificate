@@ -6,7 +6,7 @@ Tasks
 2. Analytical Approach
 3. Data Requirements
 4. Data Collection - Webscraping, data warehouse 
-5. Data understanding - Preparation and cleaning (wrangling)
+5. Data understanding - Preparation and cleaning (Wrangling/EDA)
 6. Modelling - ML, Dashboading
 7. Evaluation - Performance, does it answer the questions
 8. Deployment 
