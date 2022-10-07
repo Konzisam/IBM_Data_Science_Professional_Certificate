@@ -1,10 +1,14 @@
-Exploratory Data analysis in Python:
+IBM Data Science Professional Certificate:
+A hands on certification program exploring the entire data science cycle.
 
 Tasks
-1. Check and correct data types
-2. Check correlation between numerical variables
-3. Plot regresson plots to visualize numerical variables
-4. Visualize categorical variables using box plots
-5. Calculate Pearson correlation
-6. Perform ANOVA
-7. Select the best features
+1. Business Understanding
+2. Analytical Approach
+3. Data Requirements
+4. Data Collection
+5. Data understanding - Preparation and cleaning
+6. Modelling - ML, Dashboading
+7. Evaluation - Performance, does it answer the questions
+8. Deployment 
+
+N.B This is an iterative process and can iterate at whatever stage.
