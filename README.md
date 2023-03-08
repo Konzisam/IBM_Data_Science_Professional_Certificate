@@ -11,5 +11,7 @@ A hands on certification program exploring the entire data science cycle.
 
 N.B This is an iterative process and can iterate at whatever stage.
 
-The files have been intuitively divided into the different topics: 
-Data wrangling, SQL, Machine Learning,Data viz, 
+Different topics are covered: 
+Data wrangling, SQL, Machine Learning,Data viz
+
+And then the capstone project
